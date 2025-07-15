@@ -1,1 +1,7 @@
-# Valery-Rudikova.github.io-
+# Валерия Рудикова  
+### Мои проекты  
+1. [Недвижимость](ссылка на репозиторий) 
+2. [Продажи](ссылка)
+### Контакты  
+- Telegram: @valery4002
+- Email: rudikova_valery@mail.ru  
